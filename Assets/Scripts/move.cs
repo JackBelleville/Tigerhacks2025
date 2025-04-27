@@ -19,7 +19,7 @@ public class move : MonoBehaviour
         {
             GetComponent <MeshRenderer>().enabled = true;
         }
-        transform.position += new Vector3(0, 0, -.03f);
+        transform.position += new Vector3(0, 0, -.02f);
     }
 
     private void OnCollisionEnter(Collision collision)
