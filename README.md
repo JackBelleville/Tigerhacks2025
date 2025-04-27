@@ -14,4 +14,7 @@ How to run the game:
 - connect a metaquest through meta link (or another xr device through similar software)
 - build and run the project using your vr headset
 
+Unity Version Required:
+- Unity 2022.3.6f1
+
 note: you cannot build the project directly onto the headset, so you will need to be plugged into the computer to play. This won't be much of an issue though, because this game is meant to be played while seated!
